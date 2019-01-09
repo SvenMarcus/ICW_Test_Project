@@ -1,2 +1,0 @@
--- insert your ICW path in the quotes
-return "/Users/svenmarcus/Library/PlayOnMac/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/Star Wars Empire at War/corruption/Mods/Imperial_Civil_War/"
